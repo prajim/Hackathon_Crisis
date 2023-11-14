@@ -25,7 +25,7 @@ const _nav = [
   },
   {
     component: CNavItem,
-    name: 'Homeless People',
+    name: 'Service Users',
     to: '/theme/colors',
     icon: <CIcon icon={cilDrop} customClassName="nav-icon" />,
   },
